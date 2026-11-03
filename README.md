@@ -254,3 +254,10 @@ npm run test:soccer
 ## License
 
 ISC
+
+
+## Sponsor
+
+This project is supported by [Ujersey](https://ujerseyy.com), an authorized retailer of licensed sports apparel.
+
+> Disclosure: This is a sponsored link. #ad
